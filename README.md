@@ -1,7 +1,7 @@
 # Growth spurt recognition 
 Final project for the Building AI course
 ## Summary
-Growth spurt is a common factor for sports related injuries for young athletes. This machine would recongize the situation and let the athlete and coach know when and how to adjust training to minimize risk of repetetive strain injuries.
+Growth spurt is a common factor for sports related injuries for young athletes. This machine would recognize the situation and let the athlete and coach know when to adjust training to minimize risk of repetetive strain injuries.
 ## Background
 As an experienced figure skating coach I've seen many cases of growth spurt and strain related injuries within athletes of 10-15 years of age. Sometimes the training is too hard or too unilateral during growth spurt. Sometimes even the athletes themselves push too hard to reach their goals. Repetetive strain injuries might keep an athlete away from training for months or be a reason to stop training. Growth spurt increases the risk of different injuries and could perhaps be quite easily recognized with the help of regular measuring and machine learning. 
 * problem 1: Disciplines that include a lot of jumping load the body in a way that might cause Oshgood-Shlatter or other similar-type repetetive strain injuries.
